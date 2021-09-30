@@ -1,9 +1,9 @@
 [
     {
-        "username": "15619980712",
-        "password": "199103",
+        "username": "15619980712"
+        "password": "199103"
         "appId": "64cdd06dbf1ba0c9db682c64ebcf3ec7c7f729fd95c83e233242c6067b101d21d54475461726f3672cb671d74d6f56196b9ce41064d894a5cd12c86ffa8ba65b635fed8b26bb05ec9f651ffc5e6a03ae"
-        "email": "843825448@qq.com",
+        "email": "843825448@qq.com"
         "lotteryNum": "抽奖次数（选填，不填请删除此行）",
         "dingtalkWebhook": "钉钉通知 https://oapi.dingtalk.com/robot/send?access_token=xxxx（选填，不填请删除此行）",
         "telegramBot": {
